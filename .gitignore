@@ -1,0 +1,4 @@
+# Repository for storing developer-specific files and large files for testing
+test_files/*
+# Maintain (almost) empty directories
+!test_files/.gitkeep
