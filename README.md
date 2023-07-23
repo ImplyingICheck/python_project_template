@@ -15,3 +15,7 @@ This project template can be used as is but for further setup and system integra
 This project template is IDE agnostic, it can be easily ported into any development environment.
 
 With that said, the template includes a `.idea` directory, used by IntelliJ IDEs. This folder contains code style defaults which are in line with the `.pylintrc` file. If one is not using an IntelliJ IDE or wishes to set up their own project defaults, the `.idea` directory can be deleted.
+
+## Attribution
+* `.pylintrc`: The pylint file is authored by the maintainers of [the pyguide](https://google.github.io/styleguide/pyguide.html) from [the Google-originated open-source style guides repository](https://github.com/google/styleguide).
+* `.idea/.gitignore`: The `.gitignore` file used for PyCharm is authored by the maintainers of [the JetBrains.gitignore file](https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore).
